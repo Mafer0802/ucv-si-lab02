@@ -1,0 +1,12 @@
+# Entorno virtual
+.venv/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Caché de pytest
+.pytest_cache/
+
+# Visual Studio Code
+.vscode/
